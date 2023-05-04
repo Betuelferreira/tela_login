@@ -124,16 +124,18 @@ a{
  }
 
  .botao{
-     width: 98%;
-     height: 40px;
+     width: 97%;
+     height: 45px;
      background-color: var(--roxo);
      cursor: pointer;
-     border-radius: 15px;
+     border-radius: 30px;
      border: none;
      text-transform: uppercase;
      color: aliceblue;
      margin: 10px 0 0 0;
      transition: 0.5s ;
+     font-size: 20px;
+     te
  }
 
  .botao:hover {
